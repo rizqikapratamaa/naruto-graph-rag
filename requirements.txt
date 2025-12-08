@@ -1,0 +1,6 @@
+neo4j
+python-dotenv
+torch
+transformers
+accelerate
+streamlit
